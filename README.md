@@ -1,4 +1,6 @@
 
-npm install
-nodemon index.js
-Then navigate to http://localhost:8090
+npm install <br />
+
+nodemon index.js <br />
+
+Then navigate to http://localhost:8090 
